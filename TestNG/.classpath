@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/htmlunit-driver-2.45.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/commons-net-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/dx-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/jgoodies-forms-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/qtaste-kernel-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/sikuli-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/syntaxpane-1.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Swamyshiva/swamyshiva/sikuli jar_files/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
